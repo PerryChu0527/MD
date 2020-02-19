@@ -1,0 +1,8 @@
+1z3a from RCSB pdb 
+to clean up pdb file with vim 
+reduced it using the reduce command
+#to H++ server to add H atoms and assign titratable residues
+
+tleap 
+to add water and ions and save parm and inpcrd files
+
